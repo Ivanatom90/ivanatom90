@@ -1,11 +1,11 @@
 <h1 align="center">Привет 👋, меня зовут Иван!</h1>
-<h3 align="center">Я из Санкт-Петербурга. Я являюсь backend разработчиком С++. В данный момент автоматизирую обработку данных на предприятии на котором работаю в данный момент.</h3>
+<h3 align="center">Я из Санкт-Петербурга. Я являюсь backend разработчиком С++. В данный момент автоматизирую обработку данных на предприятии на котором работаю. Прошел курсы Яндекс Практикума "Разработчик С++"</h3>
 
 - 📫 How to reach me **ivanatom@yandex.ru, @ivanatomspb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/Ivanatomspb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ivanatomspb" height="30" width="40" /></a>
+<a href="https://t.me/ivanatomspb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ivanatomspb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
