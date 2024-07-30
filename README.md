@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
   * **Яндекс практикум Разработчик С++**
   * **Corsera "Строим роботов и другие устройства на Arduino"**
-- 📫 How to reach me **ivanatom@yandex.ru**, **https://t.me/ivanatomspb**
+- 📫 How to reach me [ivanatom@yandex.ru], [https://t.me/ivanatomspb]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
