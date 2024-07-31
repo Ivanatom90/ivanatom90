@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ivanatom@yandex.ru, https://t.me/ivanatomspb**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
